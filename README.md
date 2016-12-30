@@ -20,21 +20,34 @@ My career so far has shaped me into a great communicator;
 
 #### Agile
 
+I thrive working in an agile environment. I am a certified scrum master. I am an advocate of agile project management, and I think this is due to the focus is places on continuous iterative improvement (both of the product and the team!).
+
 #### Creative
+
+- Problem solving.
+- Design.
 
 #### Adaptable
 
+- consulting projects
+- temping agencies
+
 #### Attention to detail
 
+- copywriting
+- coding
+- high profile projects and clients (inc. RBS)
+
 #### Leadership
-Read International
-RBS
-Design Lead
-Degree
+- Read International
+- RBS
+- Design Lead
+- Degree
 - discuss leadership style - coaching and supportive.
 
-
 #### Entrepreneurial
+
+#### Collaborative / people person
 
 ## Education
 
