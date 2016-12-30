@@ -2,7 +2,7 @@
 
 I'm a versatile and adaptive web designer, looking to for opportunities to use my human-centred and hands-on approach to problem-solving to create stunning digital experiences. 
 
-I've gained experience from end-to-end of the software development process, having worked in digital strategy consulting, project management, UX design and web development – giving me a unique ability to understand and address both user needs and business needs; backed with solid understanding of the underlying technologies needed to meet them.
+I've gained experience from end-to-end of the software development process, giving me a unique ability to understand and address both user needs and business needs; backed with solid understanding of the underlying technologies needed to meet them.
 
 ## Skills
 
