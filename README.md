@@ -17,19 +17,24 @@ My career so far has shaped me into a great communicator;
 - Having worked as a Strategy Consultant / Business Analyst I'm comfortable presenting to audiences of varying sizes and seniority, gaining buy in from key stakeholders. I have also facilitated workshops (both F2F and via conference call) in order to establish business requirements, engaging the group and encouraging input from each attendee.
 - Having worked for 1.5 years as a copywriter I've learnt how to write engaging content.
 - Having worked as a Customer Service Representative I have experience managing customer complaints, and providing friendly customer service even in challenging situations.
-
+Something that all of these roles have in common - communicator between the technical and the non-technical.
 #### Agile
 
 I thrive working in an agile environment. I am a certified scrum master. I am an advocate of agile project management, and I think this is due to the focus is places on continuous iterative improvement (both of the product and the team!).
+- MVPs
+- User stories
 
 #### Creative
 
-- Problem solving.
-- Design.
+- Problem solving (design thinking)
+- Design (prototypes)
+- go to for visual design assistance on teams.
 
 #### Adaptable
 
-- consulting projects
+- quick learner! 
+- quick progression
+- consulting projects - different roles, different clients and different industries
 - temping agencies
 
 #### Attention to detail
@@ -53,7 +58,7 @@ I thrive working in an agile environment. I am a certified scrum master. I am an
 
 #### Makers Academy
 Web Development (Jan - Mar 2017)
-
+- wanted to learn how to make my designs come to life!
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
@@ -89,3 +94,11 @@ Management (Innovation, Sustainability and Entrepreneurship (Sep 2009 - 2012)
 *Strategy Consultant*  
 **Quadmark** (Sep 2012 to Dec 2013)   
 *Copywriter and Training Consultant*  
+
+## About me
+- Excitable and notriously smiley.
+- Yoga and meditation
+- Travel
+- Film
+- Music
+- tech meet ups, living in east london hub.
