@@ -53,6 +53,9 @@ I thrive working in an agile environment. I am a certified scrum master. I am an
 - discuss leadership style - coaching and supportive.
 
 #### Entrepreneurial
+- degree
+- resourceful - new ideas
+- startup culture.
 
 #### Collaborative / people person
 
