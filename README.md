@@ -29,7 +29,7 @@ I thrive working in an agile environment. I am a certified scrum master. I am an
 #### Creative
 
 - Problem solving (design thinking)
-- Design (prototypes)
+- Design - complex to simple. simplicity advocate. (prototypes)
 - go to for visual design assistance on teams.
 
 #### Adaptable
