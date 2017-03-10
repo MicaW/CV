@@ -1,14 +1,26 @@
 ## MICA WHITBY
 
-I'm a versatile and adaptive web designer, looking to for opportunities to use my human-centred and hands-on approach to problem-solving to create stunning digital experiences. 
+UX Design | Web Development | Digital Strategy 
 
-I've gained experience from end-to-end of the software development process, giving me a unique ability to understand and address both user needs and business needs; backed with solid understanding of the underlying technologies needed to meet them.
+Human-centred web designer/developer and agile advocate with a passion for creating stunning digital experiences. 
+
+I have experience from end-to-end of the software development process gives me a unique ability to understand and address both user needs and business needs; backed with solid understanding of the underlying technologies and software craftsmanship needed to meet them.
 
 ## Skills
 
 #### User focused
 
-As a Senior UX designer at IBM Interactive Experience (IX), I always take a human-centred approach during product development. Empathy is key to developing an outstanding product, and I have established my own toolbox of techniques to understand and tackle user needs; collected from Design Thinking practices, a 10 week General Assembly UX Design course, obsessive reading, and being surrounded by the best in the business. 
+I take a human-centred approach to problem solving, building empathy for the people I’m designing for in order to create solutions that are tailor made to suit their needs.
+
+I’ve established my own toolbox of techniques to understand and tackle user needs collected from; being surrounded by the best in the business as a Senior UX Designer at IBM IX (E-Consultancy’s #1 digital agency 2016 www.digitalagencies.econsultancy.com), Design Thinking practices, General Assembly’s UX Design course, meet-ups and obsessive reading. I’m confident when:
+
+- Facilitating Design Thinking workshops
+- Customer journeys
+- User flows
+- Wireframes
+- Prototypes
+- User Research
+- User Testing
 
 #### Excellent Communicator
 
