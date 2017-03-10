@@ -1,14 +1,14 @@
 ## MICA WHITBY
 
-UX Design | Web Development | Digital Strategy 
+UX DESIGN | WEB DEVELOPMENT | DIGITAL STRATEGY
 
 Human-centred web designer/developer and agile advocate with a passion for creating stunning digital experiences. 
 
 I have experience from end-to-end of the software development process gives me a unique ability to understand and address both user needs and business needs; backed with solid understanding of the underlying technologies and software craftsmanship needed to meet them.
 
-## Skills
+## SKILLS
 
-#### User focused
+#### USER FOCUSED
 
 I take a human-centred approach to problem solving, building empathy for the people I’m designing for in order to create solutions that are tailor made to suit their needs.
 
