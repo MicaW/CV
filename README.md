@@ -4,7 +4,7 @@ UX Design | Web Development | Digital Strategy
 
 Human-centred web designer/developer and agile advocate with a passion for creating stunning digital experiences. 
 
-I have experience from end-to-end of the software development process gives me a unique ability to understand and address both user needs and business needs; backed with solid understanding of the underlying technologies and software craftsmanship needed to meet them.
+I have experience from end-to-end of the software development process gives me a unique ability to understand and address both user needs and business needs; backed with an understanding of the underlying technologies and software craftsmanship needed to meet them.
 
 ## SKILLS
 
