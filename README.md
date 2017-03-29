@@ -83,9 +83,9 @@ I’m an ideas person, and thrive in an entrepreneurial and innovative environme
 
 Project | Technologies used | Interesting fact
 ------------ | ------------- | -------------
-Developers Dictionary | Node, Express, MongoDB, JavaScript, jQuery, SVG, CSS, Bootstrap, Mocha, Chai, Zombie & Heroku | I pitched this idea, and it was incredible to see the vision come to life in less than 8 days!
-Majordomo | Ruby, Rails, Rspec, Capybara, CSS, JQuery, PostgreSQL | We had 5 days to make this room booking tool. This is when I fell in love with front-end development.
-CabinBnB | Ruby, Sinatra, PostgreSQL, RSpec, Capybara & BCrypt | Again we had 5 days to create a clone of Airbnb, after only having been coding for 6 weeks! This is when I realised what is possible.
+[Developers Dictionary](https://github.com/MicaW/developers-dictionary) | Node, Express, MongoDB, JavaScript, jQuery, SVG, CSS, Bootstrap, Mocha, Chai, Zombie & Heroku | I pitched this idea, and it was incredible to see the vision come to life in less than 8 days!
+[Majordomo](https://github.com/MicaW/majordomo) | Ruby, Rails, Rspec, Capybara, CSS, JQuery, PostgreSQL | We had 5 days to make this room booking tool. This is when I fell in love with front-end development.
+[CabinBnB]( | Ruby, Sinatra, PostgreSQL, RSpec, Capybara & BCrypt | Again we had 5 days to create a clone of Airbnb, after only having been coding for 6 weeks! This is when I realised what is possible.
 
 
 ## EDUCATION
