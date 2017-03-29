@@ -41,9 +41,7 @@ I’m a people person and excel at communicating complex technical problems in a
 I’m an advocate of agile project management, due to the focus it places on continuous iterative improvement (both of the product and the team!)
 
   * I’m a certified Agile Scrum Master gained from the Scrum Alliance.
-
   * I’ve worked on Agile teams for 1.5 years. I even created an Agile Handbook to give to clients on previous projects.
-
   * I have experience working in an iterative and agile way on a digital transformation programme for Castrol, in which we came up with 50  products/services that they could introduce to improve their digital offering. Using data collected from user research, we then created Minimum Viable Products (MVPs) for the highest priority projects, and again took them to customers for testing and feedback. The ones which prompted the best response from customers were then chosen to be scaled, again improved upon and have now gone live.
 
 
@@ -52,9 +50,7 @@ I’m an advocate of agile project management, due to the focus it places on con
 Throughout my career I've sought to continuously learn and develop. I've consistently proven that I can enter a new place, and quickly pick up the ways of working and skills required for the role:
 
  * Having worked for IBM IX (IBM’s digital agency), Quadmark (IT Consultancy), and various temping agencies, I'm used to taking on projects with new clients, in new industries and in varying roles. My ability to hit the ground running is something I've regularly been praised for in feedback.
-
  * I've recently completed a Software Engineering bootcamp at Makers Academy, a notoriously intensive course which teaches principles of software craftsmanship and guides you to becoming a junior full-stack developer. For our final project, myself and my team built a fully functioning website using a technology stack we had never used before (Mongo-DB, Express, and Node) in under 8 days. In this time, we had to design the site, learn the technology, build it and test it. Check it out: www.developers-dictionary.com. 
-
  * I pivoted my career into UX design in 2015, taking a part-time course at General Assembly, then moving into a UX role. Within a few months I was assigned as core UX designer for my team, and a few months after that promoted to Design Lead for an entire digital transformation programme.
 
 
@@ -63,11 +59,8 @@ Throughout my career I've sought to continuously learn and develop. I've consist
 I believe that the details are the difference between good stuff, and great stuff. My experience has only emphasised this:
 
  * Writing clean code.
-
  * Reviewing web designs by developers
-
  * Reviewing content and having my content reviewed before publishing.
-
  * Working with high-profile clients including HP, Google, RBS, Department of Work and Pensions, and a Global Satellite company (NDA) on highly visible projects.
 
 #### LEADERSHIP
@@ -75,9 +68,7 @@ I believe that the details are the difference between good stuff, and great stuf
 I’ve built a transformative leadership style over my career through the following:
 
  * As Design Lead for a digital transformation programme at Castrol, I had to plan the project, and keep the design standards high across multiple designers and developers split between the UK, Bucharest and the US.
-
  * As Operational Plan Lead at RBS (through IBM) I had the responsibility of managing the daily execution of testing according to plan. I led a global team with people in South Africa, India, London and Edinburgh. These teams were a split of IBM, RBS, Infosys and contract staff, and my role required the coordination of all of these - bringing people together to discuss issues, resolve and move forwards. These issues occurred regularly, and it was my job to help turn the problems into actionable solutions. This was a huge and incredibly complex global project with multiple phases of testing. Each phase comprised of around 20,000 – 30,000 test cases, running across 20 different platforms. 
-
  * I received a Gold Leadership award during my Leadership module at University, which involved coursework and exams on the theory of leadership, in addition to clocking over 400 volunteer hours for the charity Read International. My role was Resource Collections Lead, during which I led a team to collect and sort over 40,000 disused textbooks from 54 schools in the Greater Manchester region, and collaborated with other volunteers to raise over £7,500 to send these books to schools in East Africa who were in need of study resources. I then spent the summer in Tanzania working in partnership with the Ministry of Education to curriculum match, allocate, and distribute these books to 28 schools, and build and launch a library in the local area.
 
 
@@ -86,7 +77,6 @@ I’ve built a transformative leadership style over my career through the follow
 I’m an ideas person, and thrive in an entrepreneurial and innovative environment:
 
  * As a Digital Strategist at IBM, I worked with large clients to define their digital roadmaps. This involved looking at their current customer journeys, and running ideation sessions on how they could be improved. I would then design and print a mural containing future vision that they could put on their wall to strive for in their future decision making.
-
  * I specialised in Innovation and Entrepreneurship at University, and enjoy reading start up literature just for fun. I attend conferences about the future of industries (E.g. a 3 day conference on the future of retail), and regularly attend meet ups to find out about start-ups and to learn about innovations in technology. 
 
 
