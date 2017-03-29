@@ -59,7 +59,7 @@ Throughout my career I've sought to continuously learn and develop. I've consist
 I believe that the details are the difference between good stuff, and great stuff. My experience has only emphasised this:
 
  * Writing clean code.
- * Reviewing web designs by developers
+ * Paying attention to the details when designing a website that make an experience stand out.
  * Reviewing content and having my content reviewed before publishing.
  * Working with high-profile clients including HP, Google, RBS, Department of Work and Pensions, and a Global Satellite company (NDA) on highly visible projects.
 
