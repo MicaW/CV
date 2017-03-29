@@ -1,57 +1,58 @@
 ## MICA WHITBY
 
-## UX Design | Web Development | Digital Strategy
+### UX Design | Web Development | Digital Strategy
 
-Human-centred web designer/developer and agile advocate with a passion for creating stunning digital experiences.
+**Human-centred web designer/developer and agile advocate with a passion for creating stunning digital experiences.
 
-I have experience from end-to-end of the software development process, giving me a unique ability to understand and address both user needs and business needs; backed with an understanding of the underlying technologies and software craftsmanship needed to meet them.
+**I have experience from end-to-end of the software development process, giving me a unique ability to understand and address both user needs and business needs; backed with an understanding of the underlying technologies and software craftsmanship needed to meet them.
 
 
 ## SKILLS
 
 ```
-### USER FOCUSED
+**USER FOCUSED
 
 I take a human-centred approach to problem solving, building empathy for the people I’m designing for in order to create solutions that are tailor made to suit their needs. I’ve established my own toolbox of techniques to understand and tackle user needs collected from; being surrounded by the best in the business as a Senior UX Designer at IBM IX (E-Consultancy’s #1 digital agency 2016 www.digitalagencies.econsultancy.com), Design Thinking bootcamp, General Assembly’s UX Design course, meet-ups and obsessive reading. My role at IX involved the following:
 
-* Facilitating Design Thinking workshops
-* Customer journeys
-* User flows
-* Wireframes
-* Prototypes
-* User Research
-* User Testing
+  * Facilitating Design Thinking workshops
+  * Customer journeys
+  * User flows
+  * Wireframes
+  * Prototypes
+  * User Research
+  * User Testing
 ```
 
 ```
-### EXCELLENT COMMUNICATOR
+**EXCELLENT COMMUNICATOR
 
 I’m a people person and excel at communicating complex technical problems in a clear and easy to understand way, gained from experience bridging between technical teams and the customer:
 
-* Having worked as a UX Designer I have established storytelling skills to communicate the user requirements to the wider team. I also take pride my ability to make users feel at ease when conducting research and user testing.
+  * Having worked as a UX Designer I have established storytelling skills to communicate the user requirements to the wider team. I also take pride my ability to make users feel at ease when conducting research and user testing.
 
-* Having worked as a Digital Strategy Consultant I'm comfortable presenting to audiences of varying sizes and seniority, gaining buy in from key stakeholders. I have also facilitated workshops (both F2F and via conference call) in order to establish business requirements, engaging the group and encouraging input from each attendee.
+  * Having worked as a Digital Strategy Consultant I'm comfortable presenting to audiences of varying sizes and seniority, gaining buy in from key stakeholders. I have also facilitated workshops (both F2F and via conference call) in order to establish business requirements, engaging the group and encouraging input from each attendee.
 
-* I have run graduate inductions for IBM, introducing new starters to the ways of working, and facilitating learning.
+  * I have run graduate inductions for IBM, introducing new starters to the ways of working, and facilitating learning.
 
-* Having worked for 1.5 years as a copywriter at Quadmark, I’ve learnt how to write engaging content sent to over 10,000 people around the globe.
+  * Having worked for 1.5 years as a copywriter at Quadmark, I’ve learnt how to write engaging content sent to over 10,000 people around the globe.
 
 * Having worked as a Customer Service Representative I have experience managing customer complaints, and providing friendly customer service even in challenging situations.
 ```
 
 ```
-### AGILE
+**AGILE
 
 I’m an advocate of agile project management, due to the focus it places on continuous iterative improvement (both of the product and the team!)
-I’m a certified Agile Scrum Master gained from the Scrum Alliance
 
-I have been working on Agile teams for 1.5 years, taking part in ceremonies such as stand ups, retrospectives, sprint planning, estimation, sprint reviews etc. I even created an Agile Handbook to give to clients, introducing them to the way of working compared to traditional management styles, in addition to outlining the roles, ceremonies and requirements from them.
+  * I’m a certified Agile Scrum Master gained from the Scrum Alliance
 
-I have experience working in an iterative and agile way on a digital transformation programme for Castrol, in which we came up with 50 digital services that they could introduce to improve their digital offering. Using data collected from user research, we then created Minimum Viable Products (MVPs) for the highest priority projects, and again took them to customers for testing and feedback. The ones which prompted the best response from customers were then chosen to be scaled, again improved upon and have now gone live.
+  * I have been working on Agile teams for 1.5 years, taking part in ceremonies such as stand ups, retrospectives, sprint planning, estimation, sprint reviews etc. I even created an Agile Handbook to give to clients, introducing them to the way of working compared to traditional management styles, in addition to outlining the roles, ceremonies and requirements from them.
+
+  * I have experience working in an iterative and agile way on a digital transformation programme for Castrol, in which we came up with 50 digital services that they could introduce to improve their digital offering. Using data collected from user research, we then created Minimum Viable Products (MVPs) for the highest priority projects, and again took them to customers for testing and feedback. The ones which prompted the best response from customers were then chosen to be scaled, again improved upon and have now gone live.
 ```
 
 ```
-### QUICK LEARNER
+**QUICK LEARNER
 
 Throughout my career I have sought to continuously learn and develop my skill set. I have regularly proven that I can enter a new place, and quickly pick up the ways of working and skills required for the role:
 
