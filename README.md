@@ -27,13 +27,13 @@ I’ve established my own toolbox of techniques to understand and tackle user ne
 
 I’m a people person and excel at communicating complex technical problems in a clear and easy to understand way, gained from experience bridging between technical teams and the customer. Examples include:
 
-Storytelling when presenting, using visuals where possible. Show don’t tell. 
-Putting users at ease during User Research and User Testing.
-Comfortable presenting to audiences of varying sizes and seniority, and gaining buy in from key stakeholders.
-Workshop facilitation.
-Running graduate inductions and experienced hire assessment centres.
-Writing engaging training and marketing content, sent to over 10,000 people around the globe.
-Managing customer complaints and providing friendly customer service even in challenging situations.
+ * Storytelling when presenting, using visuals where possible. Show don’t tell. 
+ * Putting users at ease during User Research and User Testing.
+ * Comfortable presenting to audiences of varying sizes and seniority, and gaining buy in from key stakeholders.
+ * Workshop facilitation.
+ * Running graduate inductions and experienced hire assessment centres.
+ * Writing engaging training and marketing content, sent to over 10,000 people around the globe.
+ * Managing customer complaints and providing friendly customer service even in challenging situations.
 
 
 #### AGILE
