@@ -2,7 +2,7 @@
 
 ### UX Design | Web Development | Digital Strategy
 
-Human-centred web designer/developer and agile advocate with a passion for creating stunning digital experiences.
+Human-centred web designer/developer and agile advocate, with a passion for creating stunning digital experiences.
 
 I have experience from end-to-end of the software development process, giving me a unique ability to understand and address both user needs and business needs; backed with an understanding of the underlying technologies and software craftsmanship needed to meet them.
 
@@ -24,25 +24,23 @@ I’m a people person and excel at communicating complex technical problems in a
 
 #### AGILE
 
-I’m an advocate of agile project management, due to the focus it places on continuous iterative improvement (both of the product and the team!)
-
   * I’m a certified Agile Scrum Master gained from the Scrum Alliance.
   * I’ve worked on Agile teams for 1.5 years. I even created an Agile Handbook to give to clients on previous projects.
-  * I have experience working in an iterative and agile way on a digital transformation programme for Castrol, in which we came up with 50  products/services that they could introduce to improve their digital offering. Using data collected from user research, we then created Minimum Viable Products (MVPs) for the highest priority projects, and again took them to customers for testing and feedback. The ones which prompted the best response from customers were then chosen to be scaled, again improved upon and have now gone live.
+  * Worked iteratively on a digital transformation programme for Castrol, in which we came up with 50 services that they could introduce to improve their digital offering. We did user research, picked the most exciting ideas, and created MVPs; which we took to customers for testing and feedback. The ones which the customers were most excited about were then chosen to be scaled.
 
 
 #### QUICK LEARNER
 
-Throughout my career I've sought to continuously learn and develop. I've consistently proven that I can enter a new place, and quickly pick up the ways of working and skills required for the role:
+I've consistently proven that I can enter a new place, and quickly pick up the the role:
 
  * Having worked for various agencies, I'm used to taking on projects with new clients, in new industries and in varying roles. My ability to hit the ground running is something I've regularly been praised for in feedback.
- * I've recently completed a Software Engineering bootcamp at Makers Academy, a notoriously intensive course which teaches principles of software craftsmanship and guides you to becoming a junior full-stack developer. For our final project, myself and my team built a fully functioning website using a technology stack we had never used before (Mongo-DB, Express, and Node) in under 8 days. In this time, we had to design the site, learn the technology, build and test it.
+ * I've recently completed a Software Engineering bootcamp at Makers Academy. For our final project, myself and my team built a fully functioning website using a technology stack we had never used before (Mongo-DB, Express, and Node) in under 8 days. In this time, we had to plan it, design it, learn the technology, build and test it. [See it here](www.developers-dictionary.com)
  * I pivoted my career into UX design in 2015, taking a part-time course at General Assembly, then moving into a UX role. Within a few months I was assigned as core UX designer for my team, and a few months after that promoted to Design Lead for an entire digital transformation programme.
 
 
 #### ATTENTION TO DETAIL
 
-I believe that the details are the difference between good stuff, and great stuff. My experience has only emphasised this:
+Proven through:
 
  * Writing clean code.
  * Paying attention to the details that make an experience stand out when designing a website.
@@ -61,7 +59,7 @@ I’ve built a transformative leadership style over my career through the follow
 
 #### USER FOCUSED
 
-I’ve established my own toolbox of techniques to understand and tackle user needs collected from; being surrounded by the best in the business as a Senior UX Designer at IBM IX (E-Consultancy’s #1 digital agency 2016 www.digitalagencies.econsultancy.com), Design Thinking bootcamp, General Assembly’s UX Design course, meet-ups and obsessive reading. My role at IX involved the following:
+I’ve established my own toolbox of techniques to understand and tackle user needs collected from; being surrounded by the best in the business as a Senior UX Designer at IBM IX ([E-Consultancy’s #1 digital agency 2016](www.digitalagencies.econsultancy.com)), attending a Design Thinking bootcamp, General Assembly’s UX Design course, meet-ups and obsessive reading. My role at IX involved the following:
 
   * Facilitating Design Thinking workshops
   * Customer journeys
@@ -74,10 +72,10 @@ I’ve established my own toolbox of techniques to understand and tackle user ne
 
 #### INNOVATIVE
 
-I’m an ideas person, and thrive in an entrepreneurial and innovative environment:
+I’m an ideas person, and thrive in a creative and entrepreneurial environment:
 
  * As a Digital Strategist at IBM, I worked with large clients to define their digital roadmaps. This involved looking at their current customer journeys, and running ideation sessions on how they could be improved. I would then design and print a mural containing future vision that they could put on their wall to strive for in their future decision making.
- * I specialised in Innovation and Entrepreneurship at University, and enjoy reading start up literature just for fun. I attend conferences about the future of industries (E.g. a 3 day conference on the future of retail), and regularly attend meet ups to find out about start-ups and to learn about innovations in technology. 
+ * I specialised in Innovation and Entrepreneurship at University, and enjoy reading start up literature just for fun. I attend conferences about the future of industries (E.g. a 3 day conference on the future of retail), and regularly attend meet ups to find out about cutting edge start-ups and to learn about innovations in technology. 
 
 ## PROJECTS AT MAKERS
 
