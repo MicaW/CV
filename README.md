@@ -2,15 +2,15 @@
 
 ### UX Design | Web Development | Digital Strategy
 
-**Human-centred web designer/developer and agile advocate with a passion for creating stunning digital experiences.
+Human-centred web designer/developer and agile advocate with a passion for creating stunning digital experiences.
 
-**I have experience from end-to-end of the software development process, giving me a unique ability to understand and address both user needs and business needs; backed with an understanding of the underlying technologies and software craftsmanship needed to meet them.
+I have experience from end-to-end of the software development process, giving me a unique ability to understand and address both user needs and business needs; backed with an understanding of the underlying technologies and software craftsmanship needed to meet them.
 
 
 ## SKILLS
 
 
-####USER FOCUSED
+#### USER FOCUSED
 
 I take a human-centred approach to problem solving, building empathy for the people I’m designing for in order to create solutions that are tailor made to suit their needs. I’ve established my own toolbox of techniques to understand and tackle user needs collected from; being surrounded by the best in the business as a Senior UX Designer at IBM IX (E-Consultancy’s #1 digital agency 2016 www.digitalagencies.econsultancy.com), Design Thinking bootcamp, General Assembly’s UX Design course, meet-ups and obsessive reading. My role at IX involved the following:
 
@@ -23,7 +23,7 @@ I take a human-centred approach to problem solving, building empathy for the peo
   * User Testing
 
 
-####EXCELLENT COMMUNICATOR
+#### EXCELLENT COMMUNICATOR
 
 I’m a people person and excel at communicating complex technical problems in a clear and easy to understand way, gained from experience bridging between technical teams and the customer:
 
@@ -38,7 +38,7 @@ I’m a people person and excel at communicating complex technical problems in a
 * Having worked as a Customer Service Representative I have experience managing customer complaints, and providing friendly customer service even in challenging situations.
 
 
-####AGILE
+#### AGILE
 
 I’m an advocate of agile project management, due to the focus it places on continuous iterative improvement (both of the product and the team!)
 
@@ -49,7 +49,7 @@ I’m an advocate of agile project management, due to the focus it places on con
   * I have experience working in an iterative and agile way on a digital transformation programme for Castrol, in which we came up with 50 digital services that they could introduce to improve their digital offering. Using data collected from user research, we then created Minimum Viable Products (MVPs) for the highest priority projects, and again took them to customers for testing and feedback. The ones which prompted the best response from customers were then chosen to be scaled, again improved upon and have now gone live.
 
 
-####QUICK LEARNER
+#### QUICK LEARNER
 
 Throughout my career I have sought to continuously learn and develop my skill set. I have regularly proven that I can enter a new place, and quickly pick up the ways of working and skills required for the role:
 
@@ -60,7 +60,7 @@ Throughout my career I have sought to continuously learn and develop my skill se
  * I pivoted my career from Digital Strategy into UX design in 2015, taking a part time course at General Assembly, then moving into a UX role. Within a few months I was assigned as core UX designer for my team, and a few months after that promoted to Design Lead for an entire digital transformation programme.
 
 
-####ATTENTION TO DETAIL
+#### ATTENTION TO DETAIL
 
 I believe that the details are the difference between good stuff, and great stuff:
 
@@ -73,7 +73,7 @@ I believe that the details are the difference between good stuff, and great stuf
  * I have worked with high-profile clients on high-profile projects including HP, Google, RBS, Department of Work and Pensions, and a Global Satellite company(NDA). These projects require extreme care, particularly at RBS where I lead the testing of a huge migration of data to their side-arm Williams and Glynn. This project was highly visible, and my role involved ensuring we were on track and that all stakeholders were aware of the progress we were making. 
 
 
-####LEADERSHIP
+#### LEADERSHIP
 
 I’m a natural leader, and adopt a transformative style of leadership; leading through building rapport and empathy for the team, coaching and developing the team, and inspiring towards a common goal. I’ve built this style over my career through the following:
 
@@ -84,7 +84,7 @@ I’m a natural leader, and adopt a transformative style of leadership; leading 
  * I received a Gold Leadership award during my Leadership module at University, which involved coursework and exams on the theory of leadership, in addition to clocking over 400 volunteer hours for the charity Read International. My role was Resource Collections Lead, during which I led a team to collect and sort over 40,000 disused textbooks from 54 schools in the Greater Manchester region, and collaborated with other volunteers to raise over £7,500 to send these books to schools in East Africa who were in need of study resources. I then spent the summer in Tanzania working in partnership with the Ministry of Education to curriculum match, allocate, and distribute these books to 28 schools, and build and launch a library in the local area.
 
 
-####INNOVATIVE
+#### INNOVATIVE
 
 I’m an ideas person, and thrive in an entrepreneurial and innovative environment:
 
