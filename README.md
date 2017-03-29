@@ -35,7 +35,7 @@ I’m an advocate of agile project management, due to the focus it places on con
 
 Throughout my career I've sought to continuously learn and develop. I've consistently proven that I can enter a new place, and quickly pick up the ways of working and skills required for the role:
 
- * Having worked for IBM IX (IBM’s digital agency), Quadmark (IT Consultancy), and various temping agencies, I'm used to taking on projects with new clients, in new industries and in varying roles. My ability to hit the ground running is something I've regularly been praised for in feedback.
+ * Having worked for various agencies, I'm used to taking on projects with new clients, in new industries and in varying roles. My ability to hit the ground running is something I've regularly been praised for in feedback.
  * I've recently completed a Software Engineering bootcamp at Makers Academy, a notoriously intensive course which teaches principles of software craftsmanship and guides you to becoming a junior full-stack developer. For our final project, myself and my team built a fully functioning website using a technology stack we had never used before (Mongo-DB, Express, and Node) in under 8 days. In this time, we had to design the site, learn the technology, build it and test it. Check it out: www.developers-dictionary.com. 
  * I pivoted my career into UX design in 2015, taking a part-time course at General Assembly, then moving into a UX role. Within a few months I was assigned as core UX designer for my team, and a few months after that promoted to Design Lead for an entire digital transformation programme.
 
@@ -79,8 +79,16 @@ I’m an ideas person, and thrive in an entrepreneurial and innovative environme
  * As a Digital Strategist at IBM, I worked with large clients to define their digital roadmaps. This involved looking at their current customer journeys, and running ideation sessions on how they could be improved. I would then design and print a mural containing future vision that they could put on their wall to strive for in their future decision making.
  * I specialised in Innovation and Entrepreneurship at University, and enjoy reading start up literature just for fun. I attend conferences about the future of industries (E.g. a 3 day conference on the future of retail), and regularly attend meet ups to find out about start-ups and to learn about innovations in technology. 
 
+## PROJECTS AT MAKERS
 
-## Education
+Project | Technologies used | Interesting fact
+------------ | -------------
+Developers Dictionary | Node, Express, MongoDB, JavaScript, jQuery, SVG, CSS, Bootstrap, Mocha, Chai, Zombie & Heroku | I pitched this idea, and it was incredible to see the vision come to life in less than 8 days!
+Majordomo | Ruby, Rails, Rspec, Capybara, CSS, JQuery, PostgreSQL | We had 5 days to make this room booking tool. This is when I fell in love with front-end development.
+CabinBnB | Ruby, Sinatra, PostgreSQL, RSpec, Capybara & BCrypt | Again we had 5 days to create a clone of Airbnb, after only having been coding for 6 weeks! This is when I realised what is possible.
+
+
+## EDUCATION
 
 #### Makers Academy
 Web Development (Jan - Mar 2017)
@@ -102,7 +110,7 @@ Management (Innovation, Sustainability and Entrepreneurship) - 2:1 (Sep 2009 - 2
 - Communicating with impact (1 week)
 - Leading with impact (1 week)
 
-## Relevant Experience
+## RELEVANT EXPERIENCE
 
 **IBM Interactive Experience** (Apr 2014 to Present)    
 *UX Designer*
@@ -112,7 +120,7 @@ Management (Innovation, Sustainability and Entrepreneurship) - 2:1 (Sep 2009 - 2
 **Quadmark** (Sep 2012 to Dec 2013)   
 *Copywriter and Training Consultant*  
 
-## About me
+## ME
 - Excitable and notriously smiley.
 - I've got the travel bug.
 - I love going to tech events and meet ups.
