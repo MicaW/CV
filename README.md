@@ -9,20 +9,6 @@ I have experience from end-to-end of the software development process, giving me
 
 ## SKILLS
 
-
-#### USER FOCUSED
-
-I’ve established my own toolbox of techniques to understand and tackle user needs collected from; being surrounded by the best in the business as a Senior UX Designer at IBM IX (E-Consultancy’s #1 digital agency 2016 www.digitalagencies.econsultancy.com), Design Thinking bootcamp, General Assembly’s UX Design course, meet-ups and obsessive reading. My role at IX involved the following:
-
-  * Facilitating Design Thinking workshops
-  * Customer journeys
-  * User flows
-  * Wireframes
-  * Prototypes
-  * User Research
-  * User Testing
-
-
 #### EXCELLENT COMMUNICATOR
 
 I’m a people person and excel at communicating complex technical problems in a clear and easy to understand way, gained from experience bridging between technical teams and the customer. Examples include:
@@ -63,6 +49,7 @@ I believe that the details are the difference between good stuff, and great stuf
  * Reviewing content and having my content reviewed before publishing.
  * Working with high-profile clients including HP, Google, RBS, Department of Work and Pensions, and a Global Satellite company (NDA) on highly visible projects.
 
+
 #### LEADERSHIP
 
 I’ve built a transformative leadership style over my career through the following:
@@ -70,6 +57,19 @@ I’ve built a transformative leadership style over my career through the follow
  * As Design Lead for a digital transformation programme at Castrol, I had to plan the project, and keep the design standards high across multiple designers and developers split between the UK, Bucharest and the US.
  * As Operational Plan Lead at RBS (through IBM) I had the responsibility of managing the daily execution of testing according to plan. I led a global team with people in South Africa, India, London and Edinburgh. These teams were a split of IBM, RBS, Infosys and contract staff, and my role required the coordination of all of these - bringing people together to discuss issues, resolve and move forwards.
  * I received a Gold Leadership award during my Leadership module at University, which involved coursework and exams on the theory of leadership, in addition to clocking over 400 volunteer hours for the charity Read International. My role was Resource Collections Lead, during which I led a team to collect and sort over 40,000 disused textbooks from 54 schools in the Greater Manchester region, and collaborated with other volunteers to raise over £7,500 to send these books to schools in East Africa who were in need of study resources. I then spent the summer in Tanzania working in partnership with the Ministry of Education to curriculum match, allocate, and distribute these books to 28 schools, and build and launch a library in the local area.
+
+
+#### USER FOCUSED
+
+I’ve established my own toolbox of techniques to understand and tackle user needs collected from; being surrounded by the best in the business as a Senior UX Designer at IBM IX (E-Consultancy’s #1 digital agency 2016 www.digitalagencies.econsultancy.com), Design Thinking bootcamp, General Assembly’s UX Design course, meet-ups and obsessive reading. My role at IX involved the following:
+
+  * Facilitating Design Thinking workshops
+  * Customer journeys
+  * User flows
+  * Wireframes
+  * Prototypes
+  * User Research
+  * User Testing
 
 
 #### INNOVATIVE
