@@ -27,37 +27,35 @@ I take a human-centred approach to problem solving, building empathy for the peo
 
 I’m a people person and excel at communicating complex technical problems in a clear and easy to understand way, gained from experience bridging between technical teams and the customer:
 
-  * Having worked as a UX Designer I have established storytelling skills to communicate the user requirements to the wider team. I also take pride my ability to make users feel at ease when conducting research and user testing.
+ * As a UX designer, I used storytelling to communicate user research and requirements and to the wider team. I take pride in my ability to make users feel at ease when conducting research and user testing.
 
-  * Having worked as a Digital Strategy Consultant I'm comfortable presenting to audiences of varying sizes and seniority, gaining buy in from key stakeholders. I have also facilitated workshops (both F2F and via conference call) in order to establish business requirements, engaging the group and encouraging input from each attendee.
+ * As a Digital Strategist, I got comfortable presenting to audiences of varying sizes and seniority, and gaining buy in from key stakeholders. I've also facilitated workshops (both F2F and via conference call) in order to establish business requirements, engaging the group and encouraging input from each attendee. I also ran graduate inductions and experienced hire assessment centres at IBM.
 
-  * I have run graduate inductions for IBM, introducing new starters to the ways of working, and facilitating learning.
-
-  * Having worked for 1.5 years as a copywriter at Quadmark, I’ve learnt how to write engaging content sent to over 10,000 people around the globe.
-
-* Having worked as a Customer Service Representative I have experience managing customer complaints, and providing friendly customer service even in challenging situations.
+ * As a Copywriter at Quadmark I wrote engaging training and marketing content, sent to over 10,000 people around the globe.
+ 
+ * As a Customer Service Rep, I managed customer complaints and provided friendly customer service even in challenging situations.
 
 
 #### AGILE
 
 I’m an advocate of agile project management, due to the focus it places on continuous iterative improvement (both of the product and the team!)
 
-  * I’m a certified Agile Scrum Master gained from the Scrum Alliance
+  * I’m a certified Agile Scrum Master gained from the Scrum Alliance.
 
-  * I have been working on Agile teams for 1.5 years, taking part in ceremonies such as stand ups, retrospectives, sprint planning, estimation, sprint reviews etc. I even created an Agile Handbook to give to clients, introducing them to the way of working compared to traditional management styles, in addition to outlining the roles, ceremonies and requirements from them.
+  * I've been working on Agile teams for 1.5 years, taking part in stand ups, retrospectives, sprint planning, estimation, sprint reviews etc. I even created an Agile Handbook to give to clients, introducing them to the way of working compared to traditional management styles, in addition to outlining the roles, ceremonies and requirements from them.
 
-  * I have experience working in an iterative and agile way on a digital transformation programme for Castrol, in which we came up with 50 digital services that they could introduce to improve their digital offering. Using data collected from user research, we then created Minimum Viable Products (MVPs) for the highest priority projects, and again took them to customers for testing and feedback. The ones which prompted the best response from customers were then chosen to be scaled, again improved upon and have now gone live.
+  * I have experience working in an iterative and agile way on a digital transformation programme for Castrol, in which we came up with 50  products/services that they could introduce to improve their digital offering. Using data collected from user research, we then created Minimum Viable Products (MVPs) for the highest priority projects, and again took them to customers for testing and feedback. The ones which prompted the best response from customers were then chosen to be scaled, again improved upon and have now gone live.
 
 
 #### QUICK LEARNER
 
-Throughout my career I have sought to continuously learn and develop my skill set. I have regularly proven that I can enter a new place, and quickly pick up the ways of working and skills required for the role:
+Throughout my career I've sought to continuously learn and develop. I've consistently proven that I can enter a new place, and quickly pick up the ways of working and skills required for the role:
 
- * Having worked for IBM IX (IBM’s digital agency), Quadmark (IT Consultancy), and various temping agencies, I am used to taking on projects with new clients, in new industries and in varying roles. My ability to hit the ground running is something I have regularly been praised for in feedback, and has led to quick progression in any role I have ever taken on.
+ * Having worked for IBM IX (IBM’s digital agency), Quadmark (IT Consultancy), and various temping agencies, I'm used to taking on projects with new clients, in new industries and in varying roles. My ability to hit the ground running is something I've regularly been praised for in feedback, and has led to quick progression in any role I've taken on.
 
- * I have recently completed a Software Engineering bootcamp at Makers Academy, a notoriously intensive course which teaches principles of software craftsmanship and guides you to becoming a junior full-stack developer. For our final project, myself and my team built a fully functioning website using a technology stack we had never used before (Mongo-DB, Express, and Node) in under 8 days. In this time, we had to design the site, learn the technology, build it and test it. Check it out: www.developers-dictionary.com. 
+ * I've recently completed a Software Engineering bootcamp at Makers Academy, a notoriously intensive course which teaches principles of software craftsmanship and guides you to becoming a junior full-stack developer. For our final project, myself and my team built a fully functioning website using a technology stack we had never used before (Mongo-DB, Express, and Node) in under 8 days. In this time, we had to design the site, learn the technology, build it and test it. Check it out: www.developers-dictionary.com. 
 
- * I pivoted my career from Digital Strategy into UX design in 2015, taking a part time course at General Assembly, then moving into a UX role. Within a few months I was assigned as core UX designer for my team, and a few months after that promoted to Design Lead for an entire digital transformation programme.
+ * I pivoted my career into UX design in 2015, taking a part-time course at General Assembly, then moving into a UX role. Within a few months I was assigned as core UX designer for my team, and a few months after that promoted to Design Lead for an entire digital transformation programme.
 
 
 #### ATTENTION TO DETAIL
@@ -70,12 +68,11 @@ I believe that the details are the difference between good stuff, and great stuf
 
  * When I worked as a copywriter we had a process in which all of our work was reviewed by a colleague before sending out. This process of reviewing / being reviewed meant that over time I became hyper-aware of grammar / punctuation etc.
 
- * I have worked with high-profile clients on high-profile projects including HP, Google, RBS, Department of Work and Pensions, and a Global Satellite company(NDA). These projects require extreme care, particularly at RBS where I lead the testing of a huge migration of data to their side-arm Williams and Glynn. This project was highly visible, and my role involved ensuring we were on track and that all stakeholders were aware of the progress we were making. 
-
+ * I have worked with high-profile clients including HP, Google, RBS, Department of Work and Pensions, and a Global Satellite company (NDA). These projects require extreme care, particularly at RBS where I lead the testing of a huge migration of data to their side-arm Williams and Glynn. This project was highly visible, and I held a central role in the project's success.
 
 #### LEADERSHIP
 
-I’m a natural leader, and adopt a transformative style of leadership; leading through building rapport and empathy for the team, coaching and developing the team, and inspiring towards a common goal. I’ve built this style over my career through the following:
+I’m a natural leader, and adopt a transformative style of leadership; leading through building rapport and empathy for the team, coaching and developing people, and inspiring towards a common goal. I’ve built this style over my career through the following:
 
  * My most recent role at IBM was as Design Lead for a digital transformation programme at Castrol for 10 digital products. This role required me to plan the project, and keep the design standards high across multiple designers and developers split between the UK, Bucharest and the US.
 
@@ -97,23 +94,12 @@ I’m an ideas person, and thrive in an entrepreneurial and innovative environme
 
 #### Makers Academy
 Web Development (Jan - Mar 2017)
-- wanted to learn how to make my designs come to life!
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
 
 #### General Assembly
 User Experience Design (May - Sept 2015)
 
 #### University of Manchester 
-Management (Innovation, Sustainability and Entrepreneurship (Sep 2009 - 2012)
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+Management (Innovation, Sustainability and Entrepreneurship) - 2:1 (Sep 2009 - 2012)
 
 #### Agile Scrum Master Certification (Scrum Alliance)
 
@@ -126,18 +112,18 @@ Management (Innovation, Sustainability and Entrepreneurship (Sep 2009 - 2012)
 - Communicating with impact (1 week)
 - Leading with impact (1 week)
 
-## Experience
+## Relevant Experience
 
 **IBM Interactive Experience** (Apr 2014 to Present)    
 *UX Designer*
-*Strategy Consultant*  
+*Digital Strategy Consultant*  
+
 **Quadmark** (Sep 2012 to Dec 2013)   
 *Copywriter and Training Consultant*  
 
 ## About me
 - Excitable and notriously smiley.
-- Yoga and meditation
-- Travel
-- Film
-- Music
-- tech meet ups, living in east london hub.
+- I've got the travel bug.
+- I love going to tech events and meet ups.
+- Go to person for things to do in East London.
+- Obsessive about good design.
