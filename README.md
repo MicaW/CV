@@ -112,6 +112,7 @@ Management (Innovation, Sustainability and Entrepreneurship) - 2:1 (Sep 2009 - 2
 
 **IBM Interactive Experience** (Apr 2014 to Present)    
 *UX Designer*
+
 *Digital Strategy Consultant*  
 
 **Quadmark** (Sep 2012 to Dec 2013)   
