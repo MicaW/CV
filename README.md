@@ -17,7 +17,7 @@ I’m a people person and excel at communicating complex technical problems in a
  * Putting users at ease during User Research and User Testing.
  * Comfortable presenting to audiences of varying sizes and seniority, and gaining buy in from key stakeholders.
  * Workshop facilitation.
- * Running graduate inductions and experienced hire assessment centres.
+ * Running graduate inductions, experienced hire assessment centres and careers talks at universities.
  * Writing engaging training and marketing content, sent to over 10,000 people around the globe.
  * Managing customer complaints and providing friendly customer service even in challenging situations.
 
@@ -26,7 +26,7 @@ I’m a people person and excel at communicating complex technical problems in a
 
   * I’m a certified Agile Scrum Master gained from the Scrum Alliance.
   * I’ve worked on Agile teams for 1.5 years. I even created an Agile Handbook to give to clients on previous projects.
-  * Worked iteratively on a digital transformation programme for Castrol, in which we came up with 50 services that they could introduce to improve their digital offering. We did user research, picked the most exciting ideas, and created MVPs; which we took to customers for testing and feedback. The ones which the customers were most excited about were then chosen to be scaled.
+  * Worked iteratively on a digital transformation programme for Castrol, in which we came up with 50 services that they could introduce to improve their digital offering. We did user research, picked the most exciting ideas, and created MVPs; which we again took to customers for testing and feedback. The ones which the customers were most excited about were then chosen to be scaled.
 
 
 #### QUICK LEARNER
